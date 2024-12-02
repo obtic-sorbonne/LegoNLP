@@ -1,8 +1,10 @@
 # NLP for DH
-Ce notebook est une boîte à outils destinée aux chercheurs, enseignants et étudiants en sciences humaines et sociales qui souhaitent manipuler des données à l'aide du machine learning et du NLP. Il est organisé comme une chaîne de traitement composée de différentes étapes, allant de l'acquisition, du nettoyage et de la conversion des données, jusqu'à des fonctionnalités avancées telles que la génération et la comparaison de textes, en passant par l'extraction d'informations et les statistiques textuelles. 
+This notebook is a toolbox designed for researchers, teachers, and students in the humanities and social sciences who wish to work with data using machine learning and NLP. 
+It is organized as a processing pipeline with various stages, ranging from data acquisition, cleaning, and conversion to advanced features such as text generation and comparison, as well as information extraction and text statistics.
 
-Les blocs de ce notebook sont indépendants les uns des autres tout en étant complémentaires. 
+The blocks in this notebook are independent yet complementary.
 
-Bonne utilisation, et n'hésitez pas à nous faire part de vos remarques ou suggestions.
+Enjoy using it, and feel free to share any feedback or suggestions with us!
+
 
 Motasem Alrahabi
